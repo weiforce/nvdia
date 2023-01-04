@@ -1,7 +1,5 @@
 # nvdia
 
-- sh NVIDIA-Linux-x86_64-495.46.run --no-kernel-module
-
 - driver
 - https://download.nvidia.com/XFree86/Linux-x86_64/
 
