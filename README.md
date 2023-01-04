@@ -2,13 +2,11 @@
 
 - sh NVIDIA-Linux-x86_64-495.46.run --no-kernel-module
 
-- history link
+- driver
 - https://download.nvidia.com/XFree86/Linux-x86_64/
+
+- cuda
 - https://developer.nvidia.com/cuda-toolkit-archive
 
-- 525
-- https://cn.download.nvidia.cn/XFree86/Linux-x86_64/525.60.11/NVIDIA-Linux-x86_64-525.60.11.run
-
-- 495
-- https://download.nvidia.com/XFree86/Linux-x86_64/495.46/NVIDIA-Linux-x86_64-495.46.run
-
+- cudnn
+- https://developer.nvidia.com/rdp/cudnn-archive
