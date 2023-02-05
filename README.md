@@ -8,3 +8,6 @@
 
 - cudnn
 - https://developer.nvidia.com/rdp/cudnn-archive
+
+- tensorrt
+- https://developer.nvidia.com/tensorrt
